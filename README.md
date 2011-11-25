@@ -25,4 +25,4 @@ More info about installation are available [here] [2]
 
 
 [1]: http://visualdiffer.com
-[2]: installServices.md
+[2]: https://github.com/visualdiffer/scripts/blob/master/installServices.md
