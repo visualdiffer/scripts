@@ -15,6 +15,8 @@ Add to Finder context menu (under Services) a new menu item to allow files and f
 - On Lion double click on "Compare with VisualDiffer.workflow" file
 - On Snow Leopard you must copy manually the file "Compare with VisualDiffer.workflow" inside the directort /Users/your account name/Library/Services. If the directory 'Services' doesn't exist you must create it
 
+More info about installation are available [here] [2]
+
 #### How to use
 
 - When elements to compare are both visible on Finder window simply select the two files or folders and choose "Compare with VisualDiffer" from service menu
@@ -23,3 +25,4 @@ Add to Finder context menu (under Services) a new menu item to allow files and f
 
 
 [1]: http://visualdiffer.com
+[2]: installServices.md
